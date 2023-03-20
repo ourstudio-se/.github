@@ -1,10 +1,14 @@
 # Our Studio
 
-We solve complex problems through technology and design to enrich businesses and experiences.
+We are a digital development agency based in Gothenburg, Sweden, that solves complex problems through technology and design to enrich businesses and experiences.
 
 ## What we do
 
 Backend, Frontend, Relevance, Machine learning, Insights, Optimization, UI, UX, Architecture, Strategy and Concept.
+
+## Contact
+
+hello@ourstudio.se
 
 ## Links
 - [Website](https://ourstudio.se)
