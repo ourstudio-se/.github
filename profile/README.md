@@ -1,4 +1,4 @@
-# Our Stuido
+# Our Studio
 
 We solve complex problems through technology and design to enrich businesses and experiences.
 
