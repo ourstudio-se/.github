@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="our-studio-logo.svg" alt="Our Studio" width="200">
+  <img src="./our-studio-logo.svg" alt="Our Studio" width="200">
 </h1>
 
 # Our Studio
