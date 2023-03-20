@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="our-studio-logo.svg" alt="Our Studio" width="200">
+</h1>
+
 # Our Studio
 
 We are a digital development agency based in Gothenburg, Sweden, that solves complex problems through technology and design to enrich businesses and experiences.
