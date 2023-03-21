@@ -7,7 +7,7 @@
 
 <p>
   <strong>
-    We are a digital development agency based in Gothenburg, Sweden, that solves complex problems through technology and design to enrich businesses and experiences.
+    We are a digital development agency based in Gothenburg, Sweden that solves complex problems through technology and design to enrich businesses and experiences.
   </strong>
 </p>
 
@@ -18,7 +18,5 @@
 </p>
 
 <p>
-  <a href="https://ourstudio.se" title="Visit ourstudio.se">ourstudio.se</a>
-  <br />
   <a href="mailto:hello@ourstudio.se" title="Send an e-mail to hello@ourstudio.se">hello@ourstudio.se</a>
 </p>
