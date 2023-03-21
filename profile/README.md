@@ -1,5 +1,8 @@
 <h1>
-  <img src="https://github.com/ourstudio-se/.github/blob/main/profile/our-studio-logo.svg" alt="Our Studio" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ourstudio-se/.github/blob/main/profile/our-studio-logo-light.svg">
+    <img src="https://github.com/ourstudio-se/.github/blob/main/profile/our-studio-logo-dark.svg" alt="Our Studio" width="200">
+  </picture>
 </h1>
 
 <p>
